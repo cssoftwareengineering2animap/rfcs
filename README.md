@@ -5,7 +5,7 @@
 Para adicionar uma nova funcionalidade precisamos especificar o problema, os casos de uso e os detalhes ténicos.
 
 1. Defina o problema que você está tentando resolver
-2. Dê uma overview da funcionalidade e diga como ela resolve o problema.
+2. Dê uma overview da funcionalidade e demonstre como ela resolve o problema.
 3. Forneça vantagens, desvantagens e bloqueios da solução sugerida.
 
 ## Como criar
